@@ -4,7 +4,7 @@ meta_title: ' asdfa asdf asdf'
 description: >-
   Efficient use of space is crucial in home interior design. Consider the layout
   of furniture.
-date: '2025-07-18T05:00:00.000Z'
+date: 2025-07-18T05:00:00.000Z
 image: /images/services/service-1.png
 categories:
   - office
