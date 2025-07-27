@@ -10,10 +10,10 @@ categories:
   - office
 featured_in_homepage: false
 features:
-  - name: Ergonomic design solutions
+  - name: Ergonomic design solutionsf as mukles hossen adf sdfa
     description: >-
       Once construction is complete, the designer/architect conducts a final
-      inspection of the project.
+      inspection of the project. Mukles Hossen
   - name: Custom and cabinetry design
     description: >-
       Once construction is complete, the designer/architect conducts a final
@@ -24,4 +24,3 @@ features:
       inspection of the project.
 draft: false
 ---
- asf asdffa asf asf
